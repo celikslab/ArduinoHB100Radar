@@ -1,4 +1,5 @@
 # ArduinoHB100RadarProject
+
 Bu radar projesinde fiziğin bir kanunu olan Doppler ‘i  kullanarak hareket halindeki araçların hızlarını ölçmek ve bu ölçümleri belli bir yerde toplamaktır. Proje ticari bir fikir olmayıp daha çok belli bir bölgedeki (alandaki) trafik akışını incelemek amacıyla meydana gelmiştir. Bu suretle prototip çalışmasında basit bir radar modülü olan HB100 kullanıldı. Modülün ölçtüğü frekans değerlerini , Doppler formüllerinden yararlanarak hıza geçilmiştir. Çıkan veriler bir lcd ile doğrudan ve de wifi aracılığıyla da uzaktan erişimi sağlanmıştır. Prototip elektronik devre delikli plakete aktarılmış ve de ardından 3d printerdan bir kutu(3d baskı) tasarımı yapılmıştır. Sonuç olarak bu projede Doppler Radar ile hız ölçümlerini site üzerinde görüntüledik.</li>
 
 ## Dopler Nedir ?
@@ -8,26 +9,26 @@ Bu radar projesinde fiziğin bir kanunu olan Doppler ‘i  kullanarak hareket ha
 
 ## Kullanılan Malzemeler
 
-Arduino nano(ch328) 
-Jumper kablo set    
-lcd ekran(I2C)      
-Hb100 sensör  
-9v adaptor     
-konnektör       
-delikli plaket
-trimpot              
-wifi kart            
+<li>Arduino nano(ch328)</li>
+<li>Jumper kablo set</li>    
+<li>lcd ekran(I2C)</li>      
+<li>Hb100 sensör</li>  
+<li>9v adaptor</li>     
+<li>konnektör</li>       
+<li>delikli plaket</li>
+<li>trimpot</li>              
+<li>wifi kart</li>            
 
 Anfi için malzemeler
 
-lm324 OpAmp        
-2 x 100K direnç    
-12K direnç         
-330K direnç        
-8.2K direnç        
-2 x 1M direnç      
-2 x 10K direnç     
-2 x 2.2nF kapasitör
-3 x 4.7uF kapasitör
-0.1uF kapasitör    
-100uF kapasitör    
+<li>lm324 OpAmp</li>        
+<li>2 x 100K direnç</li>    
+<li>12K direnç</li>         
+<li>330K direnç</li>        
+<li>8.2K direnç</li>        
+<li>2 x 1M direnç</li>      
+<li>2 x 10K direnç</li>     
+<li>2 x 2.2nF kapasitör</li>
+<li>3 x 4.7uF kapasitör</li>
+<li>0.1uF kapasitör</li>    
+<li>100uF kapasitör</li>    
