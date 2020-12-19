@@ -49,7 +49,7 @@
 
 ## Kutu Tasarımı(3D Baskı)
 <br>
-3d Tasarım dosyalarına [bu sayfada](https://github.com/firatsoygul/PT6523) tıklarayak ulaşabilirsiniz.
+3d Tasarım dosyalarına [bu sayfada](https://google.com/) tıklarayak ulaşabilirsiniz.
 <p align="center">
   <img width="400" height="300" src="https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/images/sketchupcizim.png">
     <img width="400" height="300" src="https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/images/ilkcizim.jpg">
