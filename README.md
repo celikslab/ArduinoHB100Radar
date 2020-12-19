@@ -46,7 +46,7 @@
 
 ## Kodlar
 
-Kodların tamamını [buradan](https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/RadarProject.ino)
+Kodların tamamına [buradan](https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/RadarProject.ino) ulaşabilirsiniz.
 
 ```c++
 String agAdi = "admin";                 //Ağımızın adını buraya yazıyoruz.    
