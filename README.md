@@ -47,6 +47,15 @@
 ## Kodlar
 <br>
 
+```c++
+String agAdi = "admin";                 //Ağımızın adını buraya yazıyoruz.    
+String agSifresi = "123456";           //Ağımızın şifresini buraya yazıyoruz.
+String ip = "184.106.153.149";         //
+```
+```c++
+String veri = "GET https://api.thingspeak.com/update?api_key=WXQ7CV88VTIPT3XA"; 
+//Thingspeak komutu. Key kısmına kendi api keyimizi yazıyoruz.  
+```
 ## Kutu Tasarımı(3D Baskı)
 <br>
 
