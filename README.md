@@ -17,12 +17,12 @@
 
 ## Kullanılan Malzemeler
 
-<li>Arduino nano(ch328)</li>
+<li>Arduino pro mini(ch328)</li>
 <li>Jumper kablo set</li>    
-<li>lcd ekran(I2C)</li>      
+<li>16x2 lcd ekran</li>      
 <li>Hb100 sensör</li>  
 <li>9v adaptor</li>     
-<li>konnektör</li>       
+<li>güç konnektörü</li>       
 <li>delikli plaket</li>
 <li>trimpot</li>              
 <li>wifi kart</li>            
@@ -49,7 +49,7 @@
 
 ## Kutu Tasarımı(3D Baskı)
 <br>
-3d Tasarım dosyalarına [bu sayfada](https://google.com/) tıklarayak ulaşabilirsiniz.
+>3d Tasarım dosyalarına [bu sayfada](https://google.com/) tıklarayak ulaşabilirsiniz.
 <p align="center">
   <img width="400" height="300" src="https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/images/sketchupcizim.png">
     <img width="400" height="300" src="https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/images/ilkcizim.jpg">
