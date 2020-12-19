@@ -20,12 +20,13 @@
 <li>Arduino pro mini(ch328)</li>
 <li>Jumper kablo set</li>    
 <li>16x2 lcd ekran</li>      
-<li>Hb100 sensör</li>  
+<li>Hb100 sensör</li>
+<li>Esp8266 Wifi Modül</li>
 <li>9v adaptor</li>     
 <li>güç konnektörü</li>       
 <li>delikli plaket</li>
 <li>trimpot</li>              
-<li>wifi kart</li>            
+          
 
 <br>Anfi için malzemeler;
 
@@ -58,6 +59,8 @@ String veri = "GET https://api.thingspeak.com/update?api_key=WXQ7CV88VTIPT3XA";
 //Thingspeak komutu. Key kısmına kendi api keyimizi yazıyoruz.  
 ```
 ## Kutu Tasarımı(3D Baskı)
+
+Çizim dosyalarına(stl) [buradan](https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/stl/) ulaşabilirsiniz.
 
 <p align="center">
   <img width="400" height="300" src="https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/images/sketchupcizim.png">
