@@ -22,13 +22,6 @@ Bu radar projesinde fiziğin bir kanunu olan Doppler ‘i  kullanarak hareket ha
 <br>Anfi için malzemeler;
 
 <li>lm324 OpAmp</li>        
-<li>2 x 100K direnç</li>    
-<li>12K direnç</li>         
-<li>330K direnç</li>        
-<li>8.2K direnç</li>        
-<li>2 x 1M direnç</li>      
-<li>2 x 10K direnç</li>     
-<li>2 x 2.2nF kapasitör</li>
-<li>3 x 4.7uF kapasitör</li>
-<li>0.1uF kapasitör</li>    
-<li>100uF kapasitör</li>    
+<li>2 x 100K, 12K, 330K, 8.2K, 2 x 1M, 2 x 10K direnç</li>    
+<li>2 x 2.2nF, 3 x 4.7uF, 0.1uF, 100uF kapasitör</li>
+
