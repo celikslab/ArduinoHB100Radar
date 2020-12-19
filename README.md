@@ -19,7 +19,7 @@ Bu radar projesinde fiziğin bir kanunu olan Doppler ‘i  kullanarak hareket ha
 <li>trimpot</li>              
 <li>wifi kart</li>            
 
-Anfi için malzemeler
+<br>Anfi için malzemeler;
 
 <li>lm324 OpAmp</li>        
 <li>2 x 100K direnç</li>    
