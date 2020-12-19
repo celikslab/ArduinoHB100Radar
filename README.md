@@ -1,5 +1,5 @@
 # ArduinoHB100RadarProject
-##HB100 Radar ile ESP8266 Kullanarak ThingSpeak(Wepsite) Ölçülen Hız Değerlerini Göndermek
+## HB100 Radar ile Hız Ölçme ve ESP8266 Kullanarak ThingSpeak'e Göndermek
 
 
 <p align="center">
@@ -50,11 +50,13 @@
 
 Kodların tamamına [buradan](https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/RadarProject.ino) ulaşabilirsiniz.
 
+Bu kısımda modem bilgilerimizi giriyoruz ki wifi modül bağlantı yapabilsin.
 ```c++
-String agAdi = "admin";                 //Ağımızın adını buraya yazıyoruz.    
-String agSifresi = "123456";           //Ağımızın şifresini buraya yazıyoruz.
-String ip = "184.106.153.149";         //
+String agAdi = "admin";                 //Modem adını buraya yazıyoruz.    
+String agSifresi = "123456";           //Modem şifresini buraya yazıyoruz.
 ```
+
+Burada ThingSpeak sitesinden aldığımız ApiKeyi yazacağımız satırı görüyoruz.
 ```c++
 String veri = "GET https://api.thingspeak.com/update?api_key=WXQ7CV88VTIPT3XA"; 
 //Thingspeak komutu. Key kısmına kendi api keyimizi yazıyoruz.  
