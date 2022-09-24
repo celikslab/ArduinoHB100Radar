@@ -1,6 +1,9 @@
 # ArduinoHB100RadarProject
 ## HB100 Radar ile Hız Ölçme ve ESP8266 Kullanarak ThingSpeak'e Göndermek
 
+<p align="right">
+<li> Sr. Embedded Software Engineer <li> Muhammed Emin Çelik
+</p>
 
 <p align="center">
   <img width="400" height="350" src="https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/images/prototip1.png">
@@ -78,4 +81,3 @@ String veri = "GET https://api.thingspeak.com/update?api_key=WXQ7CV88VTIPT3XA";
     <img width="400" height="300" src="https://github.com/mcelik7/ArduinoHB100RadarProject/blob/main/images/final.jpg">
 </p>
 
-<li> Sr. Embedded Software Engineer <li> Muhammed Emin Çelik
