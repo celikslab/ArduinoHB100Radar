@@ -1,8 +1,8 @@
 # ArduinoHB100RadarProject
 ## HB100 Radar ile Hız Ölçme ve ESP8266 Kullanarak ThingSpeak'e Göndermek
 
-<p align="right">
-<li> Sr. Embedded Software Engineer <li> Muhammed Emin Çelik
+<p align="center">
+Sr. Embedded Software Engineer Muhammed Emin Çelik
 </p>
 
 <p align="center">
